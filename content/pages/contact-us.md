@@ -66,7 +66,7 @@ sections:
       - content/data/team/hilary-ouse.json
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
