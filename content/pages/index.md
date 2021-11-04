@@ -15,7 +15,7 @@ sections:
       (editing the Hero section)
     actions:
       - type: Button
-        label: Get Started
+        label: Register
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
