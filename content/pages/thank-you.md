@@ -50,5 +50,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: thank you
 layout: PageLayout
 ---
