@@ -41,6 +41,7 @@ sections:
           width: full
       submitLabel: Send Message
       action: /thank-you
+      destination: natasha@stackbit.com
     styles:
       self:
         height: auto
