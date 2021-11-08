@@ -11,8 +11,8 @@ sections:
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus test
-      (editing the Hero section)
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus
+      test (editing the Hero section)
     actions:
       - type: Button
         label: Register
@@ -75,6 +75,7 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    subtitle: test
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
